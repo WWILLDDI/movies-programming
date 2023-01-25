@@ -1,5 +1,5 @@
 # movies-programming
-List of movies(doc &amp; feature film) about programming and engineers
+List of movies(doc &amp; feature film) about software engineers, computer and internet technologies.
 
 FEATURES
 
@@ -21,8 +21,7 @@ ANIMATION
 | ----------------- | ------ | ----------------------------------------------------------- |
 | The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |      
 | Ghost in the Shell| 1995   | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
-| The Mitchells 
-    vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines   |
+| The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines   |
 
 
 DOCUMENTARIES
@@ -30,4 +29,5 @@ DOCUMENTARIES
 | Title                | Year   | About  |
 | -------------------- | ------ | ---------------------------------------------------------------------------|     
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds       |
-| Lo and Behold, Reveries of the Connected World| 2016 | https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
+| Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
+| Silicon Cowboys | 2016 | https://www.imdb.com/title/tt4938484/ |
