@@ -30,14 +30,26 @@ ANIMATION
 | ----------------- | ------ | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995   | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
 | The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |      
-| Psyco-Pass        | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
+| Psycho-Pass        | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
 | The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines   |
 
 
 DOCUMENTARIES
 
-| Title                | Year   | About  |
+| Title                | Year   | About                                                                      |
 | -------------------- | ------ | ---------------------------------------------------------------------------|     
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds       |
 | Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
 | Silicon Cowboys | 2016 | https://www.imdb.com/title/tt4938484/ |
+
+
+
+TV & Network Series 
+
+| Title                | Year      | About                                                |
+| -------------------- | --------- | ---------------------------------------------------- |
+| The IT Crowd         | 2006-2010 | 4 seasons https://en.wikipedia.org/wiki/The_IT_Crowd |
+| Silicon Valley       | 2014-2019 | 6 seasons https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series) |
+
+
+
