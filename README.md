@@ -29,6 +29,7 @@ ANIMATION
 | Title             | Year   | About                                                       |
 | ----------------- | ------ | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995   | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
+| Serial Experiments Lain | 1998 | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain |
 | The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |      
 | Psycho-Pass        | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
 | The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines   |
@@ -50,6 +51,7 @@ TV & Network Series
 | -------------------- | --------- | ---------------------------------------------------- |
 | The IT Crowd         | 2006-2010 | 4 seasons https://en.wikipedia.org/wiki/The_IT_Crowd |
 | Silicon Valley       | 2014-2019 | 6 seasons https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series) |
+| Mr. Robot            | 2015-2019 | 4 seasons https://en.wikipedia.org/wiki/Mr._Robot    |
 
 
 
