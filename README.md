@@ -8,6 +8,9 @@ FEATURES
 | WarGames          | 1993   | https://en.wikipedia.org/wiki/WarGames                |
 | Hackers           | 1995   | https://en.wikipedia.org/wiki/Hackers_(film)          |
 | The Net           | 1995   | https://en.wikipedia.org/wiki/The_Net_(1995_film)     |
+| The Matrix        | 1999   | https://en.wikipedia.org/wiki/The_Matrix              |
+|The Matrix Reloaded| 2003   | https://en.wikipedia.org/wiki/The_Matrix_Reloaded     |
+|The Matrix Revolutions| 2003| https://en.wikipedia.org/wiki/The_Matrix_Revolutions  |
 | I, Robot          | 2004   | https://en.wikipedia.org/wiki/I,_Robot_(film)         |
 | The Social Network| 2010   | https://en.wikipedia.org/wiki/The_Social_Network      |
 | Jobs              | 2013   | https://en.wikipedia.org/wiki/Jobs_(film)             |
@@ -16,6 +19,8 @@ FEATURES
 | Ex Machina        | 2014   | https://en.wikipedia.org/wiki/Ex_Machina_(film)       |
 | Steve Jobs        | 2015   | https://en.wikipedia.org/wiki/Steve_Jobs_(film)       |
 | Snowden           | 2016   | https://en.wikipedia.org/wiki/Snowden_(film)          |
+| The Matrix Resurrections| 2021| https://en.wikipedia.org/wiki/The_Matrix_Resurrections|
+
 
 
 
