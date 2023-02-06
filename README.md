@@ -40,6 +40,8 @@ ANIMATION
 | The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |
 | Code Lyoko        | 2003-2007| 4 seasons https://en.wikipedia.org/wiki/Code_Lyoko        |
 | Psycho-Pass       | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
+| Wreck-it-Ralph    | 2012   | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
+| Ralph Breaks the Internet | 2018 | https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet |
 | The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
 
 
