@@ -5,6 +5,7 @@ FEATURES
 
 | Title             | Year   | About                                                 |
 | ----------------- | ------ | ------------------------------------------------------|
+| Tron              | 1982   | https://en.wikipedia.org/wiki/Tron                    |
 | WarGames          | 1993   | https://en.wikipedia.org/wiki/WarGames                |
 | Hackers           | 1995   | https://en.wikipedia.org/wiki/Hackers_(film)          |
 | The Net           | 1995   | https://en.wikipedia.org/wiki/The_Net_(1995_film)     |
@@ -12,6 +13,7 @@ FEATURES
 |The Matrix Reloaded| 2003   | https://en.wikipedia.org/wiki/The_Matrix_Reloaded     |
 |The Matrix Revolutions| 2003| https://en.wikipedia.org/wiki/The_Matrix_Revolutions  |
 | I, Robot          | 2004   | https://en.wikipedia.org/wiki/I,_Robot_(film)         |
+| Tron: Legacy      | 2010   | https://en.wikipedia.org/wiki/Tron:_Legacy            |
 | The Social Network| 2010   | https://en.wikipedia.org/wiki/The_Social_Network      |
 | Jobs              | 2013   | https://en.wikipedia.org/wiki/Jobs_(film)             |
 | The Fifth Estate  | 2013   | https://en.wikipedia.org/wiki/The_Fifth_Estate_(film) |
@@ -35,9 +37,10 @@ ANIMATION
 | ----------------- | ------ | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995   | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
 | Serial Experiments Lain | 1998 | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain |
-| The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |      
-| Psycho-Pass        | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
-| The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines   |
+| The Animatrix     | 2003   | https://en.wikipedia.org/wiki/The_Animatrix                 |
+| Code Lyoko        | 2003-2007| 4 seasons https://en.wikipedia.org/wiki/Code_Lyoko        |
+| Psycho-Pass       | 2012   | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
+| The Mitchells vs. the Machines| 2021| https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
 
 
 DOCUMENTARIES
