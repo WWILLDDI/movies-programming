@@ -30,15 +30,15 @@ FEATURES
 
 ANIMATION    
 
-| Title             | Year  | Directed by        About                                                       |
+| Title             | Year  | Directed by      | About                                                       |
 | ----------------- | ----- | ---------------- | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995  | Mamoru Oshii     | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
-| Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain |
+| Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain|
 | The Animatrix     | 2003  |                  | https://en.wikipedia.org/wiki/The_Animatrix                 |
-| Psycho-Pass       | 2012  |                  | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
-| Wreck-it-Ralph    | 2012  |                  | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
-| Ralph Breaks the Internet | 2018 |           |     https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet |
-| The Mitchells vs. the Machines| 2021|        | https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
+| Psycho-Pass       | 2012  |Naoyoshi Shiotani & Katsuyuki Motohiro| 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass|
+| Wreck-it-Ralph    | 2012  | Rich Moore       | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
+| Ralph Breaks the Internet |2018|Rich Moore & Phil Johnston|     https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet|
+| The Mitchells vs. the Machines| 2021| Mike Rianda | https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
 
 
 DOCUMENTARIES
@@ -50,7 +50,7 @@ DOCUMENTARIES
 | Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                                     |
 | Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                                              |
 | React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                                              |
-| 
+
 
 
 
