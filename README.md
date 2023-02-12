@@ -33,8 +33,8 @@ ANIMATION
 | Title             | Year  | Directed by        About                                                       |
 | ----------------- | ----- | ---------------- | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995  | Mamoru Oshii     | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
-| Serial Experiments Lain  | 1998  | Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain |
-| The Animatrix     | 2003  |Andy Jones & Mahiro Maeda & Shinichirō Watanabe & Yoshiaki Kawajiri & Takeshi Koike & Kōji Morimoto & Peter Chung                 | https://en.wikipedia.org/wiki/The_Animatrix                 |
+| Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain |
+| The Animatrix     | 2003  |                  | https://en.wikipedia.org/wiki/The_Animatrix                 |
 | Psycho-Pass       | 2012  |                  | 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass         |
 | Wreck-it-Ralph    | 2012  |                  | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
 | Ralph Breaks the Internet | 2018 |           |     https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet |
