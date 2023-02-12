@@ -48,7 +48,9 @@ DOCUMENTARIES
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds |
 | Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
 | Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                                     |
+| Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                                              |
 | React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                                              |
+| 
 
 
 
