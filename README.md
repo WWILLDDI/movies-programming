@@ -22,6 +22,7 @@ FEATURES
 | Who Am I          | 2014   | Baran bo Odar    |  https://en.wikipedia.org/wiki/Who_Am_I_(2014_film)    |
 | Steve Jobs        | 2015   | Danny Boyle      |  https://en.wikipedia.org/wiki/Steve_Jobs_(film)       |
 | Snowden           | 2016   | Oliver Stone     |  https://en.wikipedia.org/wiki/Snowden_(film)          |
+| Free Guy          | 2021   | Shawn Levy       |  https://en.wikipedia.org/wiki/Free_Guy                |
 | The Matrix Resurrections|2021| Lana Wachowski |  https://en.wikipedia.org/wiki/The_Matrix_Resurrections|
 
 
