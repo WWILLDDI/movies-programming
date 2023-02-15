@@ -13,6 +13,7 @@ FEATURES
 |The Matrix Reloaded| 2003   | The Wachowskis   |  https://en.wikipedia.org/wiki/The_Matrix_Reloaded     |
 |The Matrix Revolutions| 2003| The Wachowskis   |  https://en.wikipedia.org/wiki/The_Matrix_Revolutions  |
 | I, Robot          | 2004   | Alexander Proyas |  https://en.wikipedia.org/wiki/I,_Robot_(film)         |
+| Gamer             | 2009   | Neveldine/Taylor |  https://en.wikipedia.org/wiki/Gamer_(2009_film)       |
 | Tron: Legacy      | 2010   | Joseph Kosinski  |  https://en.wikipedia.org/wiki/Tron:_Legacy            |
 | The Social Network| 2010   | David Fincher    |  https://en.wikipedia.org/wiki/The_Social_Network      |
 | Jobs              | 2013   | Joshua Stern     |  https://en.wikipedia.org/wiki/Jobs_(film)             |
