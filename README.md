@@ -17,6 +17,7 @@ FEATURES
 | Tron: Legacy      | 2010   | Joseph Kosinski  |  https://en.wikipedia.org/wiki/Tron:_Legacy            |
 | The Social Network| 2010   | David Fincher    |  https://en.wikipedia.org/wiki/The_Social_Network      |
 | Jobs              | 2013   | Joshua Stern     |  https://en.wikipedia.org/wiki/Jobs_(film)             |
+| The Internship    | 2013   | Shawn Levy       |  https://en.wikipedia.org/wiki/The_Internship          |
 | The Fifth Estate  | 2013   | Bill Condon      |  https://en.wikipedia.org/wiki/The_Fifth_Estate_(film) |
 |The Imitation Game | 2014   | Morten Tyldum    |  https://en.wikipedia.org/wiki/The_Imitation_Game      |
 | Ex Machina        | 2014   | Alex Garland     |  https://en.wikipedia.org/wiki/Ex_Machina_(film)       |
