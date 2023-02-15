@@ -22,8 +22,10 @@ FEATURES
 |The Imitation Game | 2014   | Morten Tyldum    |  https://en.wikipedia.org/wiki/The_Imitation_Game      |
 | Ex Machina        | 2014   | Alex Garland     |  https://en.wikipedia.org/wiki/Ex_Machina_(film)       |
 | Who Am I          | 2014   | Baran bo Odar    |  https://en.wikipedia.org/wiki/Who_Am_I_(2014_film)    |
+| The Signal        | 2014   | William Eubank   |  https://en.wikipedia.org/wiki/The_Signal_(2014_film)  |     
 | Steve Jobs        | 2015   | Danny Boyle      |  https://en.wikipedia.org/wiki/Steve_Jobs_(film)       |
 | Snowden           | 2016   | Oliver Stone     |  https://en.wikipedia.org/wiki/Snowden_(film)          |
+| The Circle         | 2017   | James Ponsoldt   |  https://en.wikipedia.org/wiki/The_Circle_(2017_film)  |
 | Free Guy          | 2021   | Shawn Levy       |  https://en.wikipedia.org/wiki/Free_Guy                |
 | The Matrix Resurrections|2021| Lana Wachowski |  https://en.wikipedia.org/wiki/The_Matrix_Resurrections|
 
@@ -48,14 +50,15 @@ ANIMATION
 
 DOCUMENTARIES
 
-| Title                | Year   | About                                                                      |
-| -------------------- | ------ | ---------------------------------------------------------------------------|     
+| Title                | Year   | About                                                       |
+| -------------------- | ------ | ------------------------------------------------------------|     
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds |
+| Secret History of Hacking|2001| https://en.wikipedia.org/wiki/The_Secret_History_of_Hacking |
 | Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
-| Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                                     |
-| The Social Dilemma   | 2020   |  https://en.wikipedia.org/wiki/The_Social_Dilemma                          |
-| Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                                              |
-| React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                                              |
+| Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                      |
+| The Social Dilemma   | 2020   |  https://en.wikipedia.org/wiki/The_Social_Dilemma           |
+| Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                               |
+| React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                               |
 
 
 
