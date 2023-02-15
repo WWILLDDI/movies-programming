@@ -37,6 +37,8 @@ ANIMATION
 | The Animatrix     | 2003  |                  | https://en.wikipedia.org/wiki/The_Animatrix                 |
 | Psycho-Pass       | 2012  |Naoyoshi Shiotani & Katsuyuki Motohiro| 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass|
 | Wreck-it-Ralph    | 2012  | Rich Moore       | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
+| Pixels            | 2015  | Chris Columbus   | https://en.wikipedia.org/wiki/Pixels_(2015_film)            |
+| Next Gen          | 2018  | Kevin R. Adams & Joe Ksander| https://en.wikipedia.org/wiki/Next_Gen_(film)    |
 | Ralph Breaks the Internet |2018|Rich Moore & Phil Johnston|     https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet|
 | The Mitchells vs. the Machines| 2021| Mike Rianda | https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
 
@@ -48,6 +50,7 @@ DOCUMENTARIES
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds |
 | Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
 | Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                                     |
+| The Social Dilemma   | 2020   |  https://en.wikipedia.org/wiki/The_Social_Dilemma                          |
 | Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                                              |
 | React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                                              |
 
