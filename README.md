@@ -56,6 +56,7 @@ DOCUMENTARIES
 | Triumph of the Nerds | 1995   | In 3 parts: Impressing Their Friends; Riding the Bear; Great Artists Steal https://en.wikipedia.org/wiki/Triumph_of_the_Nerds |
 | Secret History of Hacking|2001| https://en.wikipedia.org/wiki/The_Secret_History_of_Hacking |
 | Lo and Behold, Reveries of the Connected World| 2016 |https://en.wikipedia.org/wiki/Lo_and_Behold,_Reveries_of_the_Connected_World |
+| Code 2600            | 2011   |  https://www.imdb.com/title/tt1830538/                      |
 | Silicon Cowboys      | 2016   |  https://www.imdb.com/title/tt4938484/                      |
 | The Social Dilemma   | 2020   |  https://en.wikipedia.org/wiki/The_Social_Dilemma           |
 | Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                               |
