@@ -26,7 +26,8 @@ FEATURES
 | The Signal        | 2014   | William Eubank   |  https://en.wikipedia.org/wiki/The_Signal_(2014_film)  |     
 | Steve Jobs        | 2015   | Danny Boyle      |  https://en.wikipedia.org/wiki/Steve_Jobs_(film)       |
 | Snowden           | 2016   | Oliver Stone     |  https://en.wikipedia.org/wiki/Snowden_(film)          |
-| The Circle         | 2017   | James Ponsoldt   |  https://en.wikipedia.org/wiki/The_Circle_(2017_film)  |
+| The Circle        | 2017   | James Ponsoldt   |  https://en.wikipedia.org/wiki/The_Circle_(2017_film)  |
+| Anon              | 2018   | Andrew Niccol    |  https://en.wikipedia.org/wiki/Anon_(film)             |
 | Free Guy          | 2021   | Shawn Levy       |  https://en.wikipedia.org/wiki/Free_Guy                |
 | The Matrix Resurrections|2021| Lana Wachowski |  https://en.wikipedia.org/wiki/The_Matrix_Resurrections|
 
@@ -41,6 +42,7 @@ ANIMATION
 | Ghost in the Shell| 1995  | Mamoru Oshii     | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
 | Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain|
 | The Animatrix     | 2003  |                  | https://en.wikipedia.org/wiki/The_Animatrix                 |
+| Robots            | 2005  | Chris Wedge      | https://en.wikipedia.org/wiki/Robots_(2005_film)            |
 | Psycho-Pass       | 2012  |Naoyoshi Shiotani & Katsuyuki Motohiro| 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass|
 | Wreck-it-Ralph    | 2012  | Rich Moore       | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
 | Pixels            | 2015  | Chris Columbus   | https://en.wikipedia.org/wiki/Pixels_(2015_film)            |
@@ -61,8 +63,6 @@ DOCUMENTARIES
 | The Social Dilemma   | 2020   |  https://en.wikipedia.org/wiki/The_Social_Dilemma           |
 | Vue.js               | 2020   |  https://youtu.be/OrxmtDw4pVI                               |
 | React.js             | 2023   |  https://youtu.be/8pDqJVdNa44                               |
-
-
 
 
 
