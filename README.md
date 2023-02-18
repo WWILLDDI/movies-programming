@@ -8,7 +8,7 @@ FEATURES
 | Tron              | 1982   | Steven Lisberger |  https://en.wikipedia.org/wiki/Tron                    |
 | WarGames          | 1993   | John Badham      |  https://en.wikipedia.org/wiki/WarGames                |
 | Hackers           | 1995   | Iain Softley     |  https://en.wikipedia.org/wiki/Hackers_(film)          |
-| Johnny_Mnemonic   | 1995   | Robert Longo     |  https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)  |
+| Johnny Mnemonic   | 1995   | Robert Longo     |  https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)  |
 | The Net           | 1995   | Irwin Winkler    |  https://en.wikipedia.org/wiki/The_Net_(1995_film)     |
 | The Matrix        | 1999   | The Wachowskis   |  https://en.wikipedia.org/wiki/The_Matrix              |
 |The Matrix Reloaded| 2003   | The Wachowskis   |  https://en.wikipedia.org/wiki/The_Matrix_Reloaded     |
