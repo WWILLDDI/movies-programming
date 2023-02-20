@@ -25,6 +25,7 @@ FEATURES
 | Who Am I          | 2014   | Baran bo Odar    |  https://en.wikipedia.org/wiki/Who_Am_I_(2014_film)    |
 | The Signal        | 2014   | William Eubank   |  https://en.wikipedia.org/wiki/The_Signal_(2014_film)  |     
 | Steve Jobs        | 2015   | Danny Boyle      |  https://en.wikipedia.org/wiki/Steve_Jobs_(film)       |
+| BlackHat          | 2015   | Michael Mann     |  https://en.wikipedia.org/wiki/Blackhat_(film)         |
 | Snowden           | 2016   | Oliver Stone     |  https://en.wikipedia.org/wiki/Snowden_(film)          |
 | The Circle        | 2017   | James Ponsoldt   |  https://en.wikipedia.org/wiki/The_Circle_(2017_film)  |
 | Anon              | 2018   | Andrew Niccol    |  https://en.wikipedia.org/wiki/Anon_(film)             |
@@ -45,7 +46,7 @@ ANIMATION
 | Robots            | 2005  | Chris Wedge      | https://en.wikipedia.org/wiki/Robots_(2005_film)            |
 | Psycho-Pass       | 2012  |Naoyoshi Shiotani & Katsuyuki Motohiro| 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass|
 | Wreck-it-Ralph    | 2012  | Rich Moore       | https://en.wikipedia.org/wiki/Wreck-It_Ralph                |
-| Pixels            | 2015  | Chris Columbus   | https://en.wikipedia.org/wiki/Pixels_(2015_film)            |
+| Pixels            | 2015  | Chris Columbus   | https://en.wikipedia.org/wiki/Pixels_(2015_film)            |               
 | Next Gen          | 2018  | Kevin R. Adams & Joe Ksander| https://en.wikipedia.org/wiki/Next_Gen_(film)    |
 | Ralph Breaks the Internet |2018|Rich Moore & Phil Johnston|     https://en.wikipedia.org/wiki/Ralph_Breaks_the_Internet|
 | The Mitchells vs. the Machines| 2021| Mike Rianda | https://en.wikipedia.org/wiki/The_Mitchells_vs._the_Machines|
