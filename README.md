@@ -77,6 +77,7 @@ TV & Network Series
 | The IT Crowd         | 2006-2010 | Graham Linehan   | 4 seasons https://en.wikipedia.org/wiki/The_IT_Crowd |
 | Silicon Valley       | 2014-2019 |Mike Judge & John Altschuler & Dave Krinsky |6 seasons https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)|
 | Mr. Robot            | 2015-2019 | Sam Esmail       | 4 seasons https://en.wikipedia.org/wiki/Mr._Robot    |
+| Web of Make Believe: Death, Lies and the Internet| 2022|	Brian Knappenberger | https://en.wikipedia.org/wiki/Web_of_Make_Believe:_Death,_Lies_and_the_Internet|
 
 
 
