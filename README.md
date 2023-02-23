@@ -43,6 +43,8 @@ ANIMATION
 | ----------------- | ----- | ---------------- | ----------------------------------------------------------- |
 | Ghost in the Shell| 1995  | Mamoru Oshii     | https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)|
 | Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain|
+| The Iron Giant    | 1999  | Brad Bird        | https://en.wikipedia.org/wiki/The_Iron_Giant                | 
+| Serial Experiments Lain| 1998| Ryūtarō Nakamura | 13 episodes https://en.wikipedia.org/wiki/Serial_Experiments_Lain|
 | The Animatrix     | 2003  |                  | https://en.wikipedia.org/wiki/The_Animatrix                 |
 | Robots            | 2005  | Chris Wedge      | https://en.wikipedia.org/wiki/Robots_(2005_film)            |
 | Psycho-Pass       | 2012  |Naoyoshi Shiotani & Katsuyuki Motohiro| 3 seasons https://en.wikipedia.org/wiki/Psycho-Pass|
