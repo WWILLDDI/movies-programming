@@ -31,6 +31,7 @@ FEATURES
 | Anon              | 2018   | Andrew Niccol    |  https://en.wikipedia.org/wiki/Anon_(film)             |
 | Free Guy          | 2021   | Shawn Levy       |  https://en.wikipedia.org/wiki/Free_Guy                |
 | The Matrix Resurrections|2021| Lana Wachowski |  https://en.wikipedia.org/wiki/The_Matrix_Resurrections|
+| BigBug            | 2022   |Jean-Pierre Jeunet|  https://en.wikipedia.org/wiki/Bigbug                  |
 
 
 
